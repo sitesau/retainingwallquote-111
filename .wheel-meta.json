@@ -1,0 +1,22 @@
+{
+  "wheel_id": 799,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-111",
+  "project": "retaining-wall-quotes-materials-compared-779f302be201c8064912c2",
+  "parent_t1_ref": "retainingwallquote-155",
+  "node_role": "feeder",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes materials compared",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-quotes-materials-compared-779f302be201c8064912c2/",
+  "tier": "T2",
+  "writeback_nonce": "ee9fcffeda13432a",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-quotes-council-and-approvals-cafa86b895802d8691f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "retaining wall quotes council and approvals",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
